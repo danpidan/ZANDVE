@@ -17,7 +17,9 @@ Suggested directory layout for your mod:
     - `cad/` folder with original design files (STEP, F3D, Scad, etc.) (optional)
     - `doc/` folder with supported documentation (optional)
     - `images/` folder with screen shots/renders/etc.
-
+ -  JellyBob/
+   -  ZANDVE_Less-Frame/
+     -  stl/
 ## Table structure
 
 Update the following table with the information about your mod:
@@ -37,4 +39,4 @@ like so:
 
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
-| *creator_name* | [*Mod Title*](./creator_here/mod_folder_name) | *Example description (short).* |:green_heart::blue_heart::heart:
+| *JellyBob* | [*ZANDVE_Less-Frame*](./creator_here/mod_folder_name) | A modification to remove the original front cross extrusion which makes it akward to see the nozzle on build plate for first layer (poor mans 3DO nozzle came) :)  |:green_heart:
