@@ -39,4 +39,4 @@ like so:
 
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
-| *JellyBob* | [*ZANDVE_Less-Frame*](./creator_here/mod_folder_name) | A modification to remove the original front cross extrusion which makes it akward to see the nozzle on build plate for first layer (poor mans 3DO nozzle came) :)  |:green_heart:
+| *JellyBob* | [*ZANDVE_Less-Frame*](./creator_here/mod_folder_name) | A modification to remove the original front cross extrusion which makes it akward to see the nozzle on build plate for first layer (poor-man's 3DO nozzle cam) :)  |:green_heart:
